@@ -1,0 +1,38 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.dkcy.jhipsterfirst",
+            "nativeLanguage": "en"
+        },
+        "jhipsterVersion": "5.8.2",
+        "applicationType": "monolith",
+        "baseName": "jhipsterFirst",
+        "packageName": "com.dkcy.jhipsterfirst",
+        "packageFolder": "com/dkcy/jhipsterfirst",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "postgresql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "gradle",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "NzlkNTBiMWI5YjQ4NWIzMjM4NzA4ZDgzNGJiZDAyZDZlM2M2YTc1OTU3NDE4NzQ2OTk3MDY3ZWQ1ZGM0ZDA2NWJhZjM5OWVlYTg0YmJjOGM5OTFlY2RhOTkzNWQzYTA4MDBmY2JhNTk4MGNkYTcxYTlmYTVhZmNjNTNhNzEwYzA=",
+        "clientFramework": "angularX",
+        "useSass": false,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "en",
+        "languages": ["en"]
+    }
+}
